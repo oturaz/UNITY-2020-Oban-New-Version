@@ -1,4 +1,5 @@
 # UNITY-2020-Oban-New-Version
+To view only the scripts, download the Scripts.rar
 
 Second attempt of creating a game after the show Oban: Star Racers, after a few years of more coding experience. Code on this one is a lot more clean
 
